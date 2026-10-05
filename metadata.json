@@ -1,0 +1,10 @@
+{
+  "name": "Remix: African School Curriculum",
+  "description": "An interactive educational platform for students in grades 1-10 across Africa, featuring 500+ books, rapid-fire drills, and real-time parent tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
